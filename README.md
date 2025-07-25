@@ -6,8 +6,7 @@ a simple multilayer perceptron was trained to investigate which sociodemographic
 The point pattern analysis techniques employed include Average Nearest Neighbor Analysis, Multi-Distance Spatial Cluster Analysis (Ripley’s K-function), and Getis-Ord Gi Hotspot Analysis. 
 The multilayer perceptron was implemented in a Jupyter Notebook using standard Python data science libraries.
   
-For detailed methodology, interpretation, and results, please refer to the full paper:  
-📄 `CrimeAnalysis_Paper.pdf`
+For detailed methodology, interpretation, and results, please refer to the full paper (📄 `CrimeAnalysis_Paper.pdf`) available in this repository alongside the project files.
 
 ## License
 
